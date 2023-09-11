@@ -146,6 +146,25 @@
 // console.log(mayor)
 
 
+// const ingreso=prompt ("ingrese una palabra")
+// let repetir=0
+// for (let i = 0; i < 10; i++) {
+//    repetir= ingreso
+//     console.log(repetir)
+        
+// }
+
+// let edad = Number(prompt("Ingrese su edad: "))
+// let menosedad=edad-1
+// for (let i = 0; i < edad; i++) {
+//     console.log(`has cumplido ${menosedad} años`) 
+       
+// }
+
+let frutas=["manzana","pera","platano","kiwi"]
+frutas.forEach(element => console.log(frutas))
+ 
+    
 
 
 
